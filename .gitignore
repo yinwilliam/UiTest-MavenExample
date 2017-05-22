@@ -1,0 +1,6 @@
+target/
+test-output/
+.settings/*.prefs
+src/test/java/com/ichef/login_module/ChangeKill.java 
+.metadata/
+RemoteSystemsTempFiles/
